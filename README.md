@@ -3,8 +3,8 @@
 Ido Rosenbaum, 2026. License: see `LICENSE` (CC BY 4.0 for documentation and data; MIT for the code; the
 vendored drat-trim sources in `verifier/vendor/` keep their own license).
 
-- Paper: Ido Rosenbaum, *Exact multiplicative complexity of bit heaps and multi-operand addition*, ECCC
-  report ECCC_ID.
+- Paper: Ido Rosenbaum, *Exact multiplicative complexity of bit heaps and multi-operand addition*, IACR
+  Cryptology ePrint Archive 2026/EPRINT_ID.
 - Archived version of these files: https://doi.org/10.5281/zenodo.24474108
 
 These files accompany the paper. They contain the Lean 4 formalization of the results for addition and
