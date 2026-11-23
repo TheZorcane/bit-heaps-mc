@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this formalization or these scripts, please cite the paper."
+title: "Supplementary material: Exact multiplicative complexity of bit heaps and multi-operand addition"
+type: software
+authors:
+  - family-names: Rosenbaum
+    given-names: Ido
+version: "1.0.0"
+date-released: 2026-11-23
+license: [MIT, CC-BY-4.0]
+keywords:
+  - multiplicative complexity
+  - circuit lower bounds
+  - modular addition
+  - bit heaps
+  - Lean 4
+preferred-citation:
+  type: article
+  title: "Exact multiplicative complexity of bit heaps and multi-operand addition"
+  authors:
+    - family-names: Rosenbaum
+      given-names: Ido
+  year: 2026
+  notes: "Electronic Colloquium on Computational Complexity (report number to be added at posting)"

@@ -1,0 +1,22 @@
+heap [1,0,0] K=0 N=1: spectral lower bound 0 (u=1), full-adder upper bound U=0  MATCH
+heap [2,0,0] K=0 N=2: spectral lower bound 1 (u=1), full-adder upper bound U=1  MATCH
+heap [3,0,0] K=0 N=3: spectral lower bound 1 (u=1), full-adder upper bound U=1  MATCH
+heap [4,0,0] K=0 N=4: spectral lower bound 3 (u=2), full-adder upper bound U=3  MATCH
+heap [5,0,0] K=0 N=5: spectral lower bound 3 (u=2), full-adder upper bound U=3  MATCH
+heap [6,0,0] K=0 N=6: spectral lower bound 4 (u=2), full-adder upper bound U=4  MATCH
+heap [7,0,0] K=0 N=7: spectral lower bound 4 (u=2), full-adder upper bound U=4  MATCH
+heap [8,0,0] K=0 N=8: spectral lower bound 7 (u=4), full-adder upper bound U=7  MATCH
+heap [9,0,0] K=0 N=9: spectral lower bound 7 (u=4), full-adder upper bound U=7  MATCH
+heap [10,0,0] K=0 N=10: spectral lower bound 8 (u=5), full-adder upper bound U=8  MATCH
+heap [11,0,0] K=0 N=11: spectral lower bound 8 (u=5), full-adder upper bound U=8  MATCH
+heap [12,0,0] K=0 N=12: spectral lower bound 10 (u=4), full-adder upper bound U=10  MATCH
+heap [13,0,0] K=0 N=13: spectral lower bound 10 (u=4), full-adder upper bound U=10  MATCH
+heap [14,0,0] K=0 N=14: spectral lower bound 11 (u=4), full-adder upper bound U=11  MATCH
+heap [15,0,0] K=0 N=15: spectral lower bound 11 (u=4), full-adder upper bound U=11  MATCH
+heap [16,0,0] K=0 N=16: spectral lower bound 14 (u=4), full-adder upper bound U=14  MATCH
+heap [17,0,0] K=0 N=17: spectral lower bound 14 (u=4), full-adder upper bound U=14  MATCH
+heap [18,0,0] K=0 N=18: spectral lower bound 15 (u=5), full-adder upper bound U=15  MATCH
+heap [19,0,0] K=0 N=19: spectral lower bound 15 (u=5), full-adder upper bound U=15  MATCH
+heap [20,0,0] K=0 N=20: spectral lower bound 17 (u=6), full-adder upper bound U=17  MATCH
+heap [21,0,0] K=0 N=21: spectral lower bound 17 (u=6), full-adder upper bound U=17  MATCH
+WEIGHT MOD 16 n<=21 ALL MATCH

@@ -1,0 +1,20 @@
+name = "mcadd"
+version = "0.1.0"
+keywords = ["math"]
+defaultTargets = ["Mcadd"]
+
+[leanOptions]
+pp.unicode.fun = true # pretty-prints `fun a ↦ b`
+relaxedAutoImplicit = false
+weak.linter.mathlibStandardSet = true
+# The Mathlib header linter demands a Mathlib-style copyright/authors block; not applicable here.
+weak.linter.style.header = false
+maxSynthPendingDepth = 3
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.36.0"
+
+[[lean_lib]]
+name = "Mcadd"

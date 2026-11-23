@@ -1,0 +1,4 @@
+(1) heap [16], m=2: RM(1,4) valid = True dim 5  conjectured max 4  codim 11 < sumM = 12
+(2) ADD_16(3) = heap [16,16], m=2: valid = True dim 13  conjectured max 12  codim 19 < sumM = 20
+    T = 0 mod 8 on all 2^13 points of the flat
+(F) at j=1 for (1): d_1 = 0, k_1 = 0, M_1 = 8, M_2 = 4, r_1 = 5 : bound k_1 - M_2 + max(0, M_1 - r_1) = -1 < d_1 = 0  -> (F) fails

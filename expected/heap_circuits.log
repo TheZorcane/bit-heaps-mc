@@ -1,0 +1,29 @@
+k=2 n=1: AND=0 formula=0 XOR=1 exhaustive=OK
+k=2 n=2: AND=1 formula=1 XOR=3 exhaustive=OK
+k=2 n=3: AND=2 formula=2 XOR=7 exhaustive=OK
+k=2 n=4: AND=3 formula=3 XOR=11 exhaustive=OK
+k=2 n=5: AND=4 formula=4 XOR=15 exhaustive=OK
+k=2 n=6: AND=5 formula=5 XOR=19 exhaustive=OK
+k=2 n=7: AND=6 formula=6 XOR=23 exhaustive=OK
+k=2 n=8: AND=7 formula=7 XOR=27 exhaustive=OK
+k=3 n=1: AND=0 formula=0 XOR=2 exhaustive=OK
+k=3 n=2: AND=1 formula=1 XOR=7 exhaustive=OK
+k=3 n=3: AND=3 formula=3 XOR=13 exhaustive=OK
+k=3 n=4: AND=5 formula=5 XOR=21 exhaustive=OK
+k=3 n=5: AND=7 formula=7 XOR=29 exhaustive=OK
+k=4 n=1: AND=0 formula=0 XOR=3 exhaustive=OK
+k=4 n=2: AND=2 formula=2 XOR=10 exhaustive=OK
+k=4 n=3: AND=5 formula=5 XOR=20 exhaustive=OK
+k=4 n=4: AND=8 formula=8 XOR=32 exhaustive=OK
+k=5 n=1: AND=0 formula=0 XOR=4 exhaustive=OK
+k=5 n=2: AND=2 formula=2 XOR=14 exhaustive=OK
+k=5 n=3: AND=5 formula=5 XOR=27 exhaustive=OK
+k=6 n=1: AND=0 formula=0 XOR=5 exhaustive=OK
+k=6 n=2: AND=3 formula=3 XOR=17 exhaustive=OK
+k=7 n=1: AND=0 formula=0 XOR=6 exhaustive=OK
+k=7 n=2: AND=3 formula=3 XOR=21 exhaustive=OK
+k=8 n=1: AND=0 formula=0 XOR=7 exhaustive=OK
+k=8 n=2: AND=4 formula=4 XOR=24 exhaustive=OK
+add3_32_heap AND 61 formula 61 XOR 245 total 306 depth 92 sha256 f35a2070e02ae15b93e7f49d9709a8ad713966f9ffa432db9c6885bbc4f6c386 status equivalent 0.299
+add4_32_heap AND 92 formula 92 XOR 368 total 460 depth 96 sha256 fb350557e1288a2788395d71d0d16708ce013daeda061a9452457f1e58e6ce59 status equivalent 0.313
+add5_32_heap AND 121 formula 121 XOR 489 total 610 depth 151 sha256 a24f4bbf27c92e465b9f0f927100e420e4909abd68ba2931090317c8031c81ef status equivalent 1.052

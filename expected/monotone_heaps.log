@@ -1,0 +1,1 @@
+monotone: W_top(e_j = M_{j+1} - M_j) == 2^(N - sum M) on 4604 monotone heaps (grid k_j <= 6, m <= 5; ADD_k(n), k <= 16, n <= 10; k <= 8, n = 14): OK

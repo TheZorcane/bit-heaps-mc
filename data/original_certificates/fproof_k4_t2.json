@@ -1,0 +1,64 @@
+{
+ "k": 4,
+ "t": 2,
+ "M": [
+  0,
+  2,
+  3,
+  3
+ ],
+ "all_ok": true,
+ "instances": [
+  {
+   "level": "1",
+   "Min": 0,
+   "cols": [
+    4,
+    4
+   ],
+   "d": 2,
+   "r": 2,
+   "result": "unsat",
+   "solve_s": 0.0,
+   "lrat_strict_check": true,
+   "lrat_msg": "VERIFIED: empty clause 3279 derived (1670 lemmas, 680 deletions checked)",
+   "cnf_sha256": "07b4bcd0e5f3af0594da6e2563344212314b8bcfd12d5228d5fa67c5b3a0a270",
+   "proof_sha256": "426f87f79e981b25edd9b71a5e48f234bd01ffc84a22d79c3c890ac74ab01fcf",
+   "proof_bytes": 166355
+  },
+  {
+   "level": "2",
+   "Min": 2,
+   "cols": [
+    4,
+    4
+   ],
+   "d": 2,
+   "r": 3,
+   "result": "unsat",
+   "solve_s": 0.1,
+   "lrat_strict_check": true,
+   "lrat_msg": "VERIFIED: empty clause 15241 derived (11220 lemmas, 8731 deletions checked)",
+   "cnf_sha256": "df0f10bcfb000f72c288c9e332b3db30206423d665bed03204d08428662160ca",
+   "proof_sha256": "79870eb02d45771c3c8fc51ad8e4a7ed2efeb8397539850753b6625a7383a53d",
+   "proof_bytes": 1617576
+  },
+  {
+   "level": ">=3",
+   "Min": 3,
+   "cols": [
+    4,
+    4
+   ],
+   "d": 2,
+   "r": 3,
+   "result": "unsat",
+   "solve_s": 0.1,
+   "lrat_strict_check": true,
+   "lrat_msg": "VERIFIED: empty clause 15649 derived (11400 lemmas, 8438 deletions checked)",
+   "cnf_sha256": "ef29309ef4ffff404d6f4099784efb893afe4c794571f18b97e804adbdbd3906",
+   "proof_sha256": "625347c03add200a599352434d187e57803c201b9572a62a0ce664662c7bb50f",
+   "proof_bytes": 1623538
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+n=2: {'AND': 2, 'XOR': 14, 'total': 16} (3n-4 = 2), exhaustive mismatches 0 / 256
+n=3: {'AND': 5, 'XOR': 26, 'total': 31} (3n-4 = 5), exhaustive mismatches 0 / 4096
+n=4: {'AND': 8, 'XOR': 41, 'total': 49} (3n-4 = 8), exhaustive mismatches 0 / 65536
+n=32: {'AND': 92, 'XOR': 461, 'total': 553} reference {'AND': 183, 'XOR': 279, 'total': 462}
+{"status": "equivalent", "result": "unsat", "proof_check": {"accepted": true, "rule": "both checkers must accept", "python_checker": {"checker": "verifier/lrat_check.py (strict RUP-only LRAT)", "accepted": true, "message": "VERIFIED: empty clause 18090 derived (13984 lemmas, 12932 deletions checked)", "wall_s": 0.043}, "vendored_lrat_check": {"cmd": ["lrat-check", "out/proof_pair32/pair32.cnf", "out/proof_pair32/pair32.lrat"], "exit_code": 0, "timed_out": false, "wall_s": 0.022, "peak_rss_bytes": 35520512, "verdict_line": "c VERIFIED", "checker": "lrat-check", "format": "LRAT (text)", "accepted": true}}, "cnf_sha256": "443ca15a825b670c7af1051d7875c15d44ac0bca493b66a13df366e09d065589", "proof_sha256": "b79dad3842dfbaa282488109ff83e63961fab554eb5c62facaa006f109a65f39"}

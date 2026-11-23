@@ -1,0 +1,18 @@
+{
+ "Min": 5,
+ "cols": [
+  6,
+  6,
+  6
+ ],
+ "d": 2,
+ "r": 5,
+ "mode": "noplain",
+ "result": "unsat",
+ "solve_s": 72.3,
+ "lrat_strict_check": true,
+ "lrat_msg": "VERIFIED: empty clause 2209210 derived (2152930 lemmas, 2129403 deletions checked)",
+ "cnf_sha256": "c05c7246e713d842046e8d6a275e1d6aca93aaca8709ae0f0e8836c49790cf60",
+ "proof_sha256": "6b3cc5419e02c660ba3fbe1722452f6d96997b4ed2f957ad0dfb5cf20451ae5e",
+ "proof_bytes": 802193469
+}
