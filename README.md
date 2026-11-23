@@ -5,7 +5,7 @@ vendored drat-trim sources in `verifier/vendor/` keep their own license).
 
 - Paper: Ido Rosenbaum, *Exact multiplicative complexity of bit heaps and multi-operand addition*, ECCC
   report ECCC_ID.
-- Archived version of these files: https://doi.org/ZENODO_DOI
+- Archived version of these files: https://doi.org/10.5281/zenodo.24474108
 
 These files accompany the paper. They contain the Lean 4 formalization of the results for addition and
 scripts that reproduce most of the computations in the paper. Section 15 of the paper lists what is
